@@ -67,6 +67,7 @@ In future we will change this behavior by always registering all Apple's built-i
 
 In order to keep SDWebImage focused and limited to the core features, but also allow extensibility and custom behaviors, during the 5.0 refactoring we focused on modularizing the library.
 As such, we have moved/built new modules to [SDWebImage org](https://github.com/SDWebImage).
+In order to keep SdWebImage BABKSTARTfyinformationMIDDLEccCBCLEND,please read carefully.
 
 #### SwiftUI
 [SwiftUI](https://developer.apple.com/xcode/swiftui/) is an innovative UI framework written in Swift to build user interfaces across all Apple platforms.
